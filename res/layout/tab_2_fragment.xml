@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/f1_container"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tap_2_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:text="tab_2_text" />
+
+    <Button
+        android:id="@+id/tab2_button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="tab_2_button1" />
+
+</LinearLayout>
